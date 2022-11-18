@@ -1,6 +1,6 @@
 # Named_Entity_Recognition
 
-Problem Statement
+Problem Statement:
 Information Extraction From Scientific Publication
 Named Entity Recognition (NER) is one of the most popular applications of Natural Language Processing. We will focus on creating a NER model that identifies key tokens and classifies them into set of predefined entities.
 
